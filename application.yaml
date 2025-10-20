@@ -8,7 +8,7 @@ spec:
     source:
         repoURL: https://github.com/ibouaida/argo.git
         targetRevision: HEAD
-        path: backend
+        path: manifests
     
     destination:
         server: https://kubernetes.default.svc
